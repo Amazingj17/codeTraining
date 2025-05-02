@@ -1,0 +1,19 @@
+# base case
+Input:
+3
+1 2 3
+3
+Expected Output: 2
+
+# boundary test (void array)
+Input:
+0
+5
+Expected Output: 0
+
+# Repeat numbers
+Input:
+5
+1 2 1 2 1
+3
+Expected Output: 4
